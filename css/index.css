@@ -1,0 +1,157 @@
+a {
+	color: inherit;
+	text-underline-position: none;
+}
+body {
+	background-color: #e6e6e6;
+}
+/*nav section */
+nav {
+	background-size: cover;
+}
+nav div {
+	padding-top: 20px;
+	padding-bottom: 15px;
+
+}
+
+.nav-container {
+	background-color: rgba(0,0,0,0.7);
+	color: #fff;
+
+}
+.head-button a {
+	background-color: transparent;
+	color: #fff;
+	border: 2px solid #fff;
+	font-weight: bold;
+}
+.head-button a:hover {
+	background-color: inherit;
+	border: 2px solid #ffcc00;
+	color:#ffcc00;
+	zoom: 1.2;
+}
+.nav-title {
+	padding-bottom: 20px;
+}
+.nav-title div div ul li {
+	color: #fff;
+}
+.nav-title div div ul li a:hover {
+	color: #ffcc00;
+}
+
+/*welcome message*/
+.welcome-message {
+	padding-bottom: 80px;
+}
+.view-button {
+	background: none;
+	border: none;
+}
+.welcome-message  p {
+	font-size: 20px;
+	color: #fff;
+}
+
+.welcome-message button p {
+	font-size: 20px;
+	color: #fff;
+	padding-left: 20px;
+}
+
+
+.fa-angle-double-down {
+	color: #fff;
+}
+
+.link-to-works {
+	font-size: 20px;
+	color: #fff;
+	padding-bottom: 20px;
+}
+
+/*section-1 nav bar*/
+.section-1 {
+	background-color: #000;
+	height: 60px;
+}
+.link a {
+	color: #fff;
+	padding: 20px;
+}
+
+.fa-angle-double-down {
+	color: #ffcc00;
+}
+
+/*section-2 form sample work*/
+.section-2 {
+	margin: 25px;
+}
+
+.image-warper div img {
+	padding: 10px;
+	margin: 5px;
+	border: 2px solid grey;
+	border-radius: 5px;
+	transition-property: padding;
+	transition-duration: 0.5s;
+	transition-delay: 0.05s;
+}
+
+.image-warper div img:hover {
+	padding: 0px;
+	border: none;
+}
+
+.image-warper div {
+	
+}
+
+
+/*read more button*/ 
+.read-more {
+	padding: 20px;
+	padding-bottom: 30px;
+}
+.read-more a {
+	border: 2px solid #ffcc00;
+	color: #ffcc00;
+	background-color: transparent;
+}
+.read-more a:hover {
+	border: 2px solid #ffcc00;
+	border-radius: 25px;
+	background-color: #ffcc00;
+	color: #fff;
+}
+/*footer section*/
+footer {
+	background-color: rgb(0,0,0);
+	height: 80px;
+	color: #fff;
+} 
+.footer-content {
+	padding-top: 25px;
+	padding-right: 60px;
+	padding-left: 60px;
+}
+
+.social-icon a {
+	color: #ffcc00;
+}
+
+.social-icon a:hover {
+	zoom: 1.5;
+	color: inherit;
+}
+
+
+.copy-right-text p span {
+	color: #ffcc00;	
+}
+.copy-right-text p:hover span {
+	zoom: 1.5;
+} 
